@@ -1,0 +1,80 @@
+# Build artifacts
+bin/
+obj/
+out/
+
+# Visual Studio cache and workspace files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.userprefs
+*.vcxproj.user
+*.vcxproj.filters
+*.ldb
+
+# Visual Studio Code settings
+.vscode/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Packages
+packages/
+*.nupkg
+
+# NuGet
+*.nuget
+NuGet.Config
+NuGet.exe
+NuGetScratch/
+project.lock.json
+
+# Build logs
+*.log
+*.tlog
+
+# Other files typically not tracked
+*.pdb
+*.cache
+*.mdb
+*.ilk
+*.obj
+*.tmp
+*.ide
+*.bak
+*.orig
+*.rej
+
+# Configuration files
+appsettings.*.json
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Local test run data
+TestResult*/
+*.TestResults
+*.VisualStudio.TestState
+*.coverage
+*.coveragexml
+
+# OS generated files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Other extensions
+*.exe
+*.dll
+*.pyc
+*.db
+*.app
+*.msi
+*.ps1
+*.psm1
+*.metaproj
+*.apk
+*.aab
